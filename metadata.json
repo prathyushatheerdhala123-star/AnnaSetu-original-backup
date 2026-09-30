@@ -1,0 +1,8 @@
+{
+  "name": "FoodLoop AI",
+  "description": "AI-powered food waste reduction ecosystem for institutional kitchens and food processing units featuring a continuous closed-loop predict-to-learn workflow.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
